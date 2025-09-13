@@ -89,7 +89,7 @@ void print_centered_no_newline(const char *text, int width);
 User currentUser;
 const char* cities[] = {
     "Dhaka-Jamalpur", "Dhaka-Rangpur", "Dhaka-Rajshahi", "Dhaka-Chittagong", "Dhaka-Sylhet",
-    "Dhaka-Khulna", "Dhaka-Mymensingh", "Dhaka-Barishal", "Dhaka-Kurigram", "Dhaka-Tangail", "Dhaka-Natore"
+    "Dhaka-Khulna", "Dhaka-Mymensingh", "Dhaka-Barishal", "Dhaka-Kurigram", "Dhaka-Tangail", "Dhaka-Natore", "Dhaka-Dinajpur"
 };
 const int num_cities = 11;
 
